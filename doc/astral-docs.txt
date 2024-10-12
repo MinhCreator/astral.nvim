@@ -143,7 +143,7 @@ GitHub repository <https://github.com/MinhCreator/astral.nvim>.
 ==============================================================================
 2. Links                                                   *astral-docs-links*
 
-1. *GitHub Workflow Status*: https://img.shields.io/github/actions/workflow/status/MinhCreator/astral.nvim/lint-test.yml?branch=main&style=for-the-badge
+1. *GitHub Workflow Status*: https://img.shields.io/github/actions/workflow/status/MinhCreator/astral.nvim/makefile.yml?branch=main&style=for-the-badge
 2. *Lua*: https://img.shields.io/badge/Made%20with%20Lua-blueviolet.svg?style=for-the-badge&logo=lua
 3. *Astral*: save.png
 
