@@ -1,6 +1,6 @@
 # astral.nvim
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/MinhCreator/astral.nvim/makefile.yml?branch=main&style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/MinhCreator/astral.nvim/lint-exp.yml?branch=main&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Made%20with%20Lua-blueviolet.svg?style=for-the-badge&logo=lua)
 
 
