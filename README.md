@@ -1,10 +1,10 @@
 # astral.nvim
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/rootiest/astral.nvim/lint-test.yml?branch=main&style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/MinhCreator/astral.nvim/lint-test.yml?branch=main&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Made%20with%20Lua-blueviolet.svg?style=for-the-badge&logo=lua)
-[![Astral.nvim](https://dotfyle.com/plugins/rootiest/astral.nvim/shield?style=for-the-badge)](https://dotfyle.com/plugins/rootiest/astral.nvim)
 
-![Astral](astral.png)
+
+![Astral](save.png)
 
 `astral.nvim` is a Neovim plugin for colorscheme persistence.
 
@@ -23,7 +23,7 @@ Using `lazy.nvim`, add the plugin to your configuration:
 ```lua
 require("lazy").setup({
     {
-        "astral/astral.nvim",
+        "MinhCreator/astral.nvim",
         version = "*", -- Pin to GitHub releases
     },
 })
@@ -55,7 +55,7 @@ use the following `lazy.nvim` configuration:
 ```lua
 require("lazy").setup({
     {
-        "astral/astral.nvim",
+        "MinhCreator/astral.nvim",
         version = "*", -- Pin to GitHub releases
         opts = {
             fallback_themes = { -- Customize fallback themes
@@ -103,7 +103,7 @@ solutions:
      colorscheme.
 
 If the issue persists, please open an issue on the
-[GitHub repository](https://github.com/rootiest/astral.nvim)
+[GitHub repository](https://github.com/MinhCreator/astral.nvim)
 with details about your configuration and the problem you are facing.
 
 ## License
@@ -114,4 +114,4 @@ with details about your configuration and the problem you are facing.
 
 Contributions are welcome!
 Please open an issue or submit a pull request to the
-[GitHub repository](https://github.com/astral/astral.nvim).
+[GitHub repository](https://github.com/MinhCreator/astral.nvim).
