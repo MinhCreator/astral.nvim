@@ -1,5 +1,5 @@
 return {
-  "Minhcreator/astral.nvim",
+  "MinhCreator/astral.nvim",
   opts = {
     fallback_themes = { -- Default fallback themes
       "catppuccin",
